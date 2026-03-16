@@ -8,8 +8,8 @@ All models were compiled using Hailo Dataflow Compiler v2.18.0.
 
 |
 
-Person Attribute
-================
+Text Detection
+==============
 
 |
 
@@ -40,7 +40,7 @@ Link Legend
 
 |
 
-Peta
+Coco
 ----
 
 |
@@ -57,8 +57,8 @@ Peta
    :widths: 31 9 7 11 9 8 8 8 9
 
    * - Network Name
-     - float Mean Accuracy
-     - Hardware Mean Accuracy
+     - float 
+     - Hardware 
      - FPS (Batch Size=1)
      - FPS (Batch Size=8)
      - Links
@@ -73,12 +73,12 @@ Peta
    
    
 
-   * - person_attr_resnet_v1_18
-     - 82.5
-     - 82.5
-     - 1312
-     - 1312
-     - | `S <https://github.com/dangweili/pedestrian-attribute-recognition-pytorch>`_ `PT <https://hailo-model-zoo.s3.eu-west-2.amazonaws.com/Classification/person_attr_resnet_v1_18/pretrained/2022-06-11/person_attr_resnet_v1_18.zip>`_ `PR <https://hailo-model-zoo.s3.eu-west-2.amazonaws.com/ModelZoo/Compiled/v2.18.0/hailo8l/person_attr_resnet_v1_18_profiler_results_compiled.html>`_  `HEF <https://hailo-model-zoo.s3.eu-west-2.amazonaws.com/ModelZoo/Compiled/v2.18.0/hailo8l/person_attr_resnet_v1_18.hef>`_
-     - 224x224x3
-     - 11.19
-     - 3.64
+   * - paddle_ocr_v5_mobile_detection⭐
+     - 4.59
+     - 4.32
+     - 20.5
+     - 33.4
+     - | `S <https://github.com/PaddlePaddle/PaddleOCR/tree/main>`_ `PT <https://hailo-model-zoo.s3.eu-west-2.amazonaws.com/OCR/PaddleOCR/v5/2025-08-10/PP-OCRv5_mobile_det_544x960_sim.zip>`_ `PR <https://hailo-model-zoo.s3.eu-west-2.amazonaws.com/ModelZoo/Compiled/v2.18.0/hailo8/paddle_ocr_v5_mobile_detection_profiler_results_compiled.html>`_  `HEF <https://hailo-model-zoo.s3.eu-west-2.amazonaws.com/ModelZoo/Compiled/v2.18.0/hailo8/paddle_ocr_v5_mobile_detection.hef>`_
+     - 544x960x3
+     - 1.2
+     - 6.5
