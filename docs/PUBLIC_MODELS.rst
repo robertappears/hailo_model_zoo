@@ -87,7 +87,7 @@ Hailo provides different pre-trained models in ONNX / TF formats and pre-compile
      - NA
      - NA
      - `Link <public_models/HAILO8/HAILO8_object_detection_3d.rst>`_
-     - `Link <public_models/HAILO8L/HAILO8L_object_detection_3d.rst>`_
+     - NA
    * - Oriented Object Detection
      - `Link <public_models/HAILO10H/HAILO10H_oriented_object_detection.rst>`_
      - `Link <public_models/HAILO15H/HAILO15H_oriented_object_detection.rst>`_
@@ -129,7 +129,7 @@ Hailo provides different pre-trained models in ONNX / TF formats and pre-compile
      - `Link <public_models/HAILO15H/HAILO15H_stereo_depth_estimation.rst>`_
      - NA
      - `Link <public_models/HAILO8/HAILO8_stereo_depth_estimation.rst>`_
-     - `Link <public_models/HAILO8L/HAILO8L_stereo_depth_estimation.rst>`_
+     - NA
    * - Super Resolution
      - `Link <public_models/HAILO10H/HAILO10H_super_resolution.rst>`_
      - `Link <public_models/HAILO15H/HAILO15H_super_resolution.rst>`_
