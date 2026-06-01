@@ -118,6 +118,12 @@ Hailo provides different pre-trained models in ONNX / TF formats and pre-compile
      - `Link <public_models/HAILO15L/HAILO15L_semantic_segmentation.rst>`_
      - `Link <public_models/HAILO8/HAILO8_semantic_segmentation.rst>`_
      - `Link <public_models/HAILO8L/HAILO8L_semantic_segmentation.rst>`_
+   * - Sentence Embedding Generation
+     - NA
+     - NA
+     - NA
+     - `Link <public_models/HAILO8/HAILO8_sentence_embedding_generation.rst>`_
+     - `Link <public_models/HAILO8L/HAILO8L_sentence_embedding_generation.rst>`_
    * - Single Person Pose Estimation
      - `Link <public_models/HAILO10H/HAILO10H_single_person_pose_estimation.rst>`_
      - `Link <public_models/HAILO15H/HAILO15H_single_person_pose_estimation.rst>`_
@@ -184,9 +190,3 @@ Hailo provides different pre-trained models in ONNX / TF formats and pre-compile
      - NA
      - NA
      - NA
-   * - Zero Text Image Retrieval
-     - NA
-     - NA
-     - NA
-     - `Link <public_models/HAILO8/HAILO8_zero_text_image_retrieval.rst>`_
-     - `Link <public_models/HAILO8L/HAILO8L_zero_text_image_retrieval.rst>`_
