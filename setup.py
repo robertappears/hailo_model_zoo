@@ -4,7 +4,7 @@ from importlib.metadata import PackageNotFoundError, version
 
 from setuptools import find_packages, setup
 
-CUR_DFC_VERSION = CUR_MZ_VERSION = "5.3.0"
+CUR_DFC_VERSION = CUR_MZ_VERSION = "5.4.0"
 package_name = "hailo-dataflow-compiler"
 
 try:
